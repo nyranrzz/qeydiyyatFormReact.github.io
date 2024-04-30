@@ -1,0 +1,27 @@
+form{
+    margin: auto;
+    margin-top:30px;
+    background: rgb(132, 229, 132);
+    width: 700px;
+    height: 300px;
+    padding-top: 50px;
+    border-radius: 15px;
+    border: 5px solid rgb(1, 179, 1);
+}
+input{
+    border: 2px solid rgb(1, 179, 1);
+    border-radius: 5px;
+    background-color: rgb(240, 233, 233);
+    width: 350px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid rgb(1, 179, 1);
+}
+h1{
+ color: white
+}
